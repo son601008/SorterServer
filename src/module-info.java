@@ -1,0 +1,2 @@
+module HPT1 {
+}
